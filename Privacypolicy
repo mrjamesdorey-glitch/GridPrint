@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GridPrint Privacy Policy</title>
+  <link rel="stylesheet" href="lib/pico.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <h1>GridPrint Privacy Policy</h1>
+    <p>Last updated: October 2025</p>
+    <p>GridPrint is a Chrome extension that allows users to create printable grids of images, supporting A4 and A3 page sizes with PDF export. All processing is done locally on your device.</p>
+    <p><strong>Data Collection and Usage:</strong></p>
+    <ul>
+      <li>GridPrint does not collect, store, or transmit any user data.</li>
+      <li>Images uploaded by users are processed locally and are not sent to any servers or third parties.</li>
+      <li>No personal information is gathered, and no analytics or tracking are used.</li>
+    </ul>
+    <p><strong>Contact:</strong> For questions or feedback, reach out to <a href="mailto:mrjamesdorey@gmail.com">mrjamesdorey@gmail.com</a>.</p>
+  </main>
+</body>
+</html>
